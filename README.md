@@ -9,3 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: aybukeegrbzz@gmail.com
 - ⚡ Fun fact: learning something new, traveling to new places and do a little painting 
 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=AybukeGurbuz1&show_icons=true&theme=radical)
