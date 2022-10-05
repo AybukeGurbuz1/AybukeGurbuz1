@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: learning something new, traveling to new places and do a little painting 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=AybukeGurbuz1&show_icons=true&theme=radical)
+
+https://github.com/AybukeGurbuz1/AybukeGurbuz1/blob/output/github-contribution-grid-snake.svg
