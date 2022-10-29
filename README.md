@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)
 
-"C:\Users\User\Desktop\4e99604097f7305eaa8d115b4b2cb1ea.gif" 
+
