@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: learning something new, traveling to new places and do a little painting 
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayb%C3%BCke-g%C3%BCrb%C3%BCz/)
-<a target="_blank"href="https://medium.com/@aybukeegrbzz"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+
 
 
 
